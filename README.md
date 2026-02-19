@@ -1,5 +1,3 @@
----
-
 # sdiag.ps1 🛠️
 
 **PowerShell Security Diagnostics & Enumeration Tool**
@@ -88,5 +86,3 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 ## ⚠️ Disclaimer
 
 *This tool is intended for authorized security testing and administrative diagnostics only. Using this script against systems you do not have explicit permission to test is illegal and unethical.*
-
----
