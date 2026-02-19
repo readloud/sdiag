@@ -1,7 +1,3 @@
-My mistake! If it's a PowerShell-based utility, the README needs to reflect the Windows environment, execution policies, and the `.ps1` workflow.
-
-Since **readloud** typically focuses on red-teaming and penetration testing, an `sdiag` PowerShell script is likely designed for post-exploitation enumeration or system auditing.
-
 ---
 
 # sdiag.ps1 🛠️
@@ -94,5 +90,3 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 *This tool is intended for authorized security testing and administrative diagnostics only. Using this script against systems you do not have explicit permission to test is illegal and unethical.*
 
 ---
-
-Would you like me to add a specific **"Modules"** section detailing exactly what Windows components it checks (like AppLocker, Credential Guard, or SMB versions)?
