@@ -1,6 +1,4 @@
-# sdiag.ps1 🛠️
-
-**PowerShell Security Diagnostics & Enumeration Tool**
+#  🛠️ **PowerShell Security Diagnostics & Enumeration Tools**
 
 `sdiag` is a specialized PowerShell script designed for rapid system diagnostics, security configuration auditing, and local enumeration. It is built to be "living off the land," requiring minimal dependencies to provide a comprehensive snapshot of a Windows host's security posture.
 
